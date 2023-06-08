@@ -1,0 +1,81 @@
+=========================================================================================================================================================================================================
+verify cuda-capable gpu --->> lspci | grep -i nvidia
+
+verify supoort version (should give x86_64 red hat linux) --->> uname -m && cat /etc/*release
+
+verify the system has gcc installed --->> gcc --version
+
+verify correct kernel headers --->> uname -r
+
+install kernel headers --->> sudo apt-get install linux-headers-$(uname -r)
+
+remove outdated signing key --->> sudo apt-key del 7fa2af80
+
+download nvidia cuda toolkit --->> 
+========================================================================================================================================================================================================
+---FOLLOW THIS COMMANDS TO GET UPDATED DRIVER AND CUDA VERSIONS---
+
+wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2204/x86_64/cuda-ubuntu2204.pin
+
+sudo mv cuda-ubuntu2204.pin /etc/apt/preferences.d/cuda-repository-pin-600
+
+wget https://developer.download.nvidia.com/compute/cuda/12.1.0/local_installers/cuda-repo-ubuntu2204-12-1-local_12.1.0-530.30.02-1_amd64.deb
+
+sudo dpkg -i cuda-repo-ubuntu2204-12-1-local_12.1.0-530.30.02-1_amd64.deb
+
+sudo cp /var/cuda-repo-ubuntu2204-12-1-local/cuda-*-keyring.gpg /usr/share/keyrings/
+
+sudo apt-get update
+
+sudo apt-get -y install cuda
+
+-----ADD CUDA PATH TO GEDIT-----
+run -->> gedit .bashrc at home dir
+
+-------export the path-------
+
+export PATH=/usr/local/cuda-12.1/bin${PATH:+:${PATH}}
+export LD_LIBRARY_PATH=/usr/local/cuda-12.1/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
+
+check if nvcc is recognized ---->>> nvcc --version
+
+recommended to reboot system. sometime gave version mismatch
+
+=======================================================================================================================================================================================================
+
+check if nvidia cuda is succesfully installed --->> nvidia-smi
+
+install docker --->> check for commands
+
+install nvidia-container-toolkit --->>
+=======================================================================================================================================================================================================
+---FOLLOW THIS COMMANDS TO GET UPDATED CONTAINER TOOLKIT----
+
+distribution=$(. /etc/os-release;echo $ID$VERSION_ID) \
+      && curl -fsSL https://nvidia.github.io/libnvidia-container/gpgkey | sudo gpg --dearmor -o /usr/share/keyrings/nvidia-container-toolkit-keyring.gpg \
+      && curl -s -L https://nvidia.github.io/libnvidia-container/$distribution/libnvidia-container.list | \
+            sed 's#deb https://#deb [signed-by=/usr/share/keyrings/nvidia-container-toolkit-keyring.gpg] https://#g' | \
+            sudo tee /etc/apt/sources.list.d/nvidia-container-toolkit.list
+            
+sudo apt-get update
+
+sudo apt-get install -y nvidia-container-toolkit
+
+sudo nvidia-ctk runtime configure --runtime=docker --->> configure docker daemond to recognize nvidia container toolkit
+
+sudo systemctl restart docker  --->>> restart docker daemon
+
+sudo docker run --rm --runtime=nvidia --gpus all nvidia/cuda:11.6.2-base-ubuntu20.04 nvidia-smi  --->> check nvidia-smi through docker container -->> it should be able to detect gpu else, there's a problem.
+=======================================================================================================================================================================================================
+
+go ahead and pull nvidia pytorch container or tensorflow container
+for pytorch container, go to this url https://catalog.ngc.nvidia.com/orgs/nvidia/containers/pytorch
+
+
+
+========================================================================================================================================================================================================
+HOW TO UNINSTALL CUDA and NVIDIA DRIVER ON UBUNTU
+sudo apt-get --purge remove "*cublas*" "cuda*" "nsight*"
+
+HOW TO UNINTALL NVIDIA DRIVER
+sudo apt-get --purge remove "*nvidia*"

@@ -1,0 +1,3 @@
+enc_dec_ctc_model_name: "stt_zh_citrinet_1024_gamma_0_25" 550mb
+
+https://github.com/kmario23/KenLM-training  /how to train kenlm
