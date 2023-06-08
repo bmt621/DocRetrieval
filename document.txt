@@ -1,0 +1,1497 @@
+CONTENT DEVELOPMENT ON DIGITAL LITERACY
+
+Digital Citizenship Manual
+
+Stage 1 – Starting the Journey
+
+Digital Literacy Basics: The things and what you should know
+
+Module 1: Getting Started with Technology
+
+1.1.1 The Operating System 
+
+An operating system is a set of software that manages computer hardware and provides common services for computer programs.
+
+Operating systems are not one-size-fits-all. They need to be adapted to the needs of the user, which means that even though there are many different types of OS, there is not a perfect OS for everyone. 
+
+
+
+1.1.1 Illustrations_____________________________________________________________________________
+
+
+
+1.1.2 Evolution in Some of the Operating Systems 
+
+There are many different types of operating systems that are used in computers and mobile phones. We have the "DOS" which stands for "Disk Operating System." It was developed in the early days of computing as a way to store and retrieve data from floppy disks. We also have what is called a "Windows" which was also developed in the early days of computing as an alternative to DOS. Windows has been around since 1985 and is still popular today. Another type of operating system is called a Unix, which has been around since 1969.
+
+There is also another called Linux, which was developed by Linus Torvalds in 1991. This operating system can be found on many servers and embedded systems that power smartphones, tablets, video game consoles, TVs and other electronics devices. Linux has been around for over 25 years now and it continues to grow more popular every year as more people start using it on their computers as well as their mobile devices.
+
+
+
+1.1.2 Illustrations_____________________________________________________________________________
+
+
+
+1.1.3 Desktop Operating Systems
+
+Desktop operating systems are the most common type of operating system. They are mainly used for desktop computers and Notebooks.
+
+The first desktop computer was created in the 1970s by IBM and it was called "IBM Personal Computer". The first commercially successful desktop computer was Apple's Macintosh, which was introduced in 1984. It had a graphical user interface, which made it easier to use than other desktop computers at the time.
+
+In the 1990s, Microsoft released Windows 95 and 98, which were also successful because they ran on a new architecture called "Windows NT". These were followed by Windows XP and Vista, then Windows 7 and 8. Windows 10 was released after Windows 8. 
+
+
+
+In 2008, Apple released Mac OS X 10.6 Snow Leopard (version 10.6), followed by Mac OS X 10.7 Lion (version 10.7) in 2011, Mac OS X 10.8 Mountain Lion (version 10.8) in 2012, Mac OS X 10.9 Mavericks (version 10.9) etc.
+
+
+
+1.1.3 Illustrations_____________________________________________________________________________
+
+
+
+1.1.4 Mobile Operating Systems
+
+Mobile OSs are designed for phones, tablets, or any other mobile device. They control how programs and features work on your device. And they are what make it possible for you to use those features in the first place.
+
+There are many different types of OSs available today. The most popular ones are iOS (for iPhones and iPads), Android (for smartphones and tablets), Windows (for laptops and desktops), macOS (for Mac computers) and Chrome OS (a lightweight operating system).
+
+
+
+1.1.4 Illustrations_____________________________________________________________________________
+
+
+
+1.2.1 Knowing Your Web Browser
+
+Web browsers are a software application that renders web pages. They are designed to interpret and display the HTML, CSS, and JavaScript code from the web page.
+
+The first web browser is called "WorldWideWeb" which was developed by Tim Berners-Lee in 1990. The first graphical web browser was called "Nexus", which was developed by University of Illinois in 1993. 
+
+The first browser was very basic and had no graphical interface but it allowed people to view hyperlinked documents on the web.
+
+The most popular browsers are Chrome, Safari, Firefox and Microsoft Edge. These browsers have different features like cookies management or private browsing mode. They also have different security settings that might be more or less secure depending on what you need them for.
+
+Google Chrome was created in 2008 by Google and it has been growing in popularity ever since. In 2012, Chrome became the most popular web browser in use on desktops worldwide. It is now used more than 60% of desktop users around the world and this number continues to grow as time goes on.
+
+Mozilla Firefox was created by Netscape Communications Corporation back in 2002 as an alternative to Internet Explorer which dominated at that time. It has also been growing steadily over time.
+
+
+
+1.2.1 Illustrations_____________________________________________________________________________
+
+
+
+1.2.2 What you can do with a Web Browser
+
+The Web Browser is a fundamental piece of software on any computer and has many features.
+
+Navigate web pages, read and download files and images, create bookmarks, and manage downloads
+
+Search for web pages using toolbar or address bar or use search engine to find pages
+
+Customize browser settings such as security, privacy and fonts
+
+Create shortcuts to websites to access them faster
+
+Use browser tabs to view multiple pages at the same time, or open new windows for each page you visit
+
+Use browser extensions for additional functionality - Manage what is shown when opening the browser
+
+
+
+1.2.2 Illustrations_____________________________________________________________________________
+
+
+
+1.3.1 Getting Started with Your Credentials  
+
+Before you can use or access information of any computing device, you need to set up a User Account first, i.e. using your basic information such as Name, Phone No, Email, Address etc. Some features can only be accessible, if the User has the right and privilege to access or view them. 
+
+Windows 10 has two built-in user account types: administrator and standard. Administrator accounts have complete control over the computer, while standard accounts have limited or defined control. A User, as an administrator account can set up other standard account(s), especially if they share the computer with other people. 
+
+You can also create guest accounts, which are limited accounts that expire after a certain period of time. Guest accounts are useful if you want to give someone temporary access to your computer.
+
+1.3.2 Create, Manage, and delete user accounts
+
+1.3.2.1 Creating a user account with an administrator account
+
+If you have an administrator account on your computer, you can use it to create a user account. This will give you access to all the same features as the administrator account, but with more security. To create a user account, follow these steps:
+
+Open the Control Panel.
+
+Click on the User Accounts icon.
+
+Click on the Create a new account link.
+
+Enter a name for the account.
+
+Select the type of account you want to create.
+
+Click on the Create Account button.
+
+Once you have created the account, you can start using it immediately.
+
+
+
+1.3.2.1 Illustrations_____________________________________________________________________________
+
+
+
+
+
+1.3.2.2 Managing user accounts - students and adults
+
+Assuming you want to set up user accounts for a school:
+
+There are a few ways to go about managing user accounts for students and adults. The best method will likely vary depending on the size of the school and the number of users.
+
+One option is to have a separate account for each student and adult. This way, you can easily keep track of who is logging in and when. You can also set up different permissions for each account, so that students have limited access to certain areas of the school website or network.
+
+Another option is to have a single account for all users. This can be more convenient for users, but it can be more difficult to manage. You will need to be careful about setting permissions and making sure that only the appropriate people have access to certain areas.
+
+
+
+1.3.2.2 Illustrations_____________________________________________________________________________
+
+
+
+1.3.2.3 Deleting user accounts
+
+Deleting user accounts is a simple process that can be completed in a few steps. First, log in to your account management system. Then, locate the user you wish to delete and click on their name. Next, click the "Delete" button. You will be asked to confirm the deletion - click "OK" to complete the process.
+
+Keep in mind that deleting a user account is a permanent action and cannot be undone. Make sure you really want to delete the account before taking this final step.
+
+
+
+1.3.2.3 Illustrations_____________________________________________________________________________
+
+
+
+1.3.3 Using Your Credentials Online  
+
+Your Personal Credentials which comes with your User Account is your clearance pass, while you access tools and features online. Therefore, the accounts or the information you have provided online is a key requirement for user online access and user online experience i.e access to online services, preference, security etc.     
+
+
+
+1.3.3 Illustrations_____________________________________________________________________________
+
+
+
+1.4.1 The Windows Graphical User Interface
+
+1.4.2 The Start Menu
+
+The Start Menu has been a major part of the Windows operating system ever since version 95. Some people loved it and others hated it, but it was a part of the Windows OS that could not be removed. Now, with Windows 10, the Start Menu has returned in full form. It’s been completely redesigned and has many new features and abilities. For instance, it now includes an integrated search box that can search your computer as well as the Internet. The Start Menu menu is also much easier to customize than it was in previous versions of Windows. You can add and remove menu items, as well as change the menu’s appearance with different color schemes and backgrounds.
+
+
+
+1.4.2 Illustrations_____________________________________________________________________________
+
+
+
+1.4.3 The Taskbar
+
+The Taskbar is a small bar located at the bottom of the Windows desktop. It’s the same place where you would normally find icons representing applications such as your web browser or word processor. In Windows 10, the Taskbar has undergone a few changes that make it easier to use. The most noticeable change is the disappearance of the “Start Menu” button that has been featured on the Taskbar since Windows 95. Instead, the Taskbar now contains buttons for the Start Menu and other common OS functions. You can also pin application icons to the Taskbar so that they are easily accessible at all times. Most significantly, the Taskbar can now automatically hide itself when it is not in use. This saves valuable desktop space and increases the amount of information that can be displayed on the desktop.
+
+
+
+1.4.3 Illustrations_____________________________________________________________________________
+
+
+
+1.4.4 Windows and Tabs
+
+Windows are the individual “pages” that are being displayed on your computer monitor. All of the open web pages, documents, and applications are displayed inside of these windows. There are several different ways to open new windows on your computer. One of the easiest ways is to grab the title bar at the top of the active window and drag it down towards the bottom of the screen. Windows 10 allows you to open and display multiple windows simultaneously. The most common way to do this is to open a new window by clicking the “New Tab” icon in your web browser. This creates a new tab that is displayed beside the currently active tab. You can then switch between tabs as needed to quickly access different windows.
+
+
+
+1.4.4 Illustrations_____________________________________________________________________________
+
+
+
+1.4.5 Understanding the Windows 10 Desktop Bar
+
+The Desktop Bar is a new feature introduced in Windows 10. It’s a toolbar that can be displayed at the top of the screen and contains buttons that can be used to control many of the Windows functions. One of the most common reasons to display the Desktop Bar is to access the system menu. This menu can be used to shut down or restart your computer. You can also use the Desktop Bar to search for files and folders, create new folders, and view Windows notifications.
+
+1.4.5 Illustrations_____________________________________________________________________________
+
+
+
+1.4.6 Navigation Tips and Tricks
+
+1.4.6.1 Make more space on the Windows Desktop: Windows 10 allows you to make more space on your Desktop by moving the taskbar to another part of the screen. Simply click the “Taskbar” button on the Desktop Bar and select “Move to Another Screen” to move the taskbar.  
+
+1.4.6 Illustrations_____________________________________________________________________________
+
+
+
+1.4.6.2 Maximize and minimize windows with the keyboard 
+
+Windows 10 makes it easier to maximize and minimize windows with the keyboard. Simply hit the “Windows” + “Up Arrow” keys to maximize a window or the “Windows” + “Down Arrow” to minimize it.  
+
+1.4.6.1 Illustrations_____________________________________________________________________________
+
+
+
+1.4.6.2 Keep windows on one screen 
+
+Windows 10 allows you to keep windows on one screen when you are using multiple monitors. Simply click the “Task View” button on the Desktop Bar and select the “Displays” option. 
+
+1.4.6.2 Illustrations_____________________________________________________________________________
+
+
+
+1.4.6.3 Launch apps with the keyboard
+
+You can launch apps with the keyboard by pressing the “Windows” + “T” keys. This displays the “Shortcuts” menu with a list of apps. Simply select the app that you want to launch. 
+
+1.4.6.3 Illustrations_____________________________________________________________________________
+
+
+
+1.5.1 Operating a Mobile OS
+
+Mobile OS allows access to information with greater possibilities. It can operate and run any application, exchange and share data in real time without being connected to the Internet. A User can also save information in the personal folder, manage tasks, and organize them as you see fit. Share your documents with others by sending them via email, printing them to your printer or printing directly.
+
+
+
+1.5.1 Illustrations_____________________________________________________________________________
+
+
+
+1.6.1 Computing Devices
+
+Information technology is transforming our lives and the world around us. Computing devices have become an integral part of our society, from smartphones and tablets to the internet, computers, and medical devices. 
+
+Computing devices include personal computers, laptops, tablets, smartphones and other mobile devices. The speed of these devices can range from low to high end performance depending on the platform and features.
+
+
+
+1.6.1 Illustrations_____________________________________________________________________________
+
+
+
+
+
+1.6.2 Input and Output Devices
+
+Input and output devices are hardware components that can be used to interact with a software system. Their primary purpose is communication between the user, application and computer system. Input and output devices include keyboard, mouse, pen or stylus, microphone and speakers. Output devices include display or LCD screen that displays graphical user interface (GUI) elements; speakers that project sound on to the user; printer that prints documents by pressing keys or buttons on a keyboard; speakers that project sound as multimedia information such as music files.
+
+How you interact with your computer is limited only by the input and output devices that are available. Most computers have at least one input device, such as a keyboard and mouse or touch pad, and at least one output device, such as a monitor screen or printer. Other devices, such as speakers and printers, are not considered input or output devices.
+
+
+
+1.6.2 Illustrations_____________________________________________________________________________
+
+
+
+1.6.3 Connectors and Connections in Computing Devices
+
+Connectors and Connections in Computing Devices are a group of terms that describes how two items are integrated into a larger computational system. These include components (like a hard drive or memory), interconnects (like cables connecting two devices together), subassemblies, and enclosures. Connectors are used on the outside of a system and consist of cables, connectors (such as the type used to connect input/output devices to their motherboard) and switch mechanisms.
+
+Connections to networks can be made with a network cable, ethernet cable, USB cable or a wireless network adapter.
+
+Computer connectors most commonly consist of a socket or receptacle, and a cable that connects to it. Most are used to provide electrical power and connect devices such as keyboards and printers. In the field of network computing, connectors can be used for providing both electrical power, as well as data transport in one device's input/output ports. Connectors are also used to connect keys on a keyboard, mice on a computer mouse, speakers to an audio output device (both an audio interface card) or an audio output port on an audio interface itself.
+
+
+
+1.6.3 Illustrations_____________________________________________________________________________
+
+
+
+1.7.1 Computer Software
+
+Software is a collection of computer programs, applications and other computer output. It can also be described as all of the applications, documents, and functions and information contained within an operating system.
+
+
+
+1.7.1 Illustrations_____________________________________________________________________________
+
+
+
+1.7.2 Applications
+
+Applications are the programs that run on your computer once you have installed them. 
+
+
+
+1.7.2 Illustrations_____________________________________________________________________________
+
+
+
+
+
+
+
+1.7.3 Basic Word Processing
+
+Word Processing is a term used in the computer industry to refer to software that is used primarily for writing documents rather than for creating graphics or multimedia. Word Processing allows you to create, edit, and format text files.
+
+Word Processing is the process of converting text into digital form. This includes text on paper documents and preformatted text on digital documents, such as webpages and PDF documents.
+
+Word processing is a comprehensive term that refers to the process of creating, editing and finalizing text for electronic media. 
+
+Quickly and easily create professional-looking documents from your computer or the cloud. Using templates and tools, you can format documents instantly, including headers and footers.
+
+
+
+1.7.3 Illustrations_____________________________________________________________________________
+
+
+
+1.7.4 Programs used for Word Processing
+
+Word Processing programs provide features that allow you to create and save documents, organize documents and data, format text, print documents, and perform other common functions. Word processors come in two primary forms: older desktop models where you control the computer by typing into colored boxes and menus, or newer laptop portable models that have touch screens with built-in keyboards.
+
+Programs used for Word Processing are software such as Microsoft Office, Adobe Applications Suite, Google Productivity Suite, OpenOffice etc.
+
+They allow you to add new text, edit and format existing text, move or delete sections of the document, insert graphics and other attachments into a document, manage artwork and lists as well as insert headers and footers.
+
+
+
+1.7.4 Illustrations_____________________________________________________________________________
+
+
+
+1.8.1 Computer Hardware
+
+Computer hardware is the part of a computer that physically interacts with the user. It consists of the central processing unit (CPU), system memory, input and output ports, storage devices, required software, plug in cards and other peripheral devices.
+
+
+
+1.8.1 Illustrations_____________________________________________________________________________
+
+
+
+1.8.2 Desktop Computers
+
+Computer desktops are one of the most popular computer products. You'll find them in homes and offices everywhere from corner coffee shops to major corporate headquarters.
+
+1.8.2 Illustrations_____________________________________________________________________________
+
+
+
+1.8.3 Laptops/Notebooks
+
+Laptops/Notebooks allow you to work wherever, whenever. The release of laptops and notebooks are a boon to businesspersons. They are user friendly and convenient for multi-tasking. Laptops are direct substitutes for desktops as they don't require any complex hardware configuration, as well as have better wi-fi connectivity and less space requirements. Laptops have come up with various storage options that include hard disk or solid state drives (SSD).
+
+
+
+1.8.3 Illustrations_____________________________________________________________________________
+
+
+
+1.8.4 Tablets
+
+Tablets mean more than just a bigger screen. They give you the power to do more, with built-in wireless capability, full web connectivity and high-quality audio. Plus they make mobile content simple to access through apps or Internet browser.
+
+Tablet computers are made for mobile use. They can be used to take notes, browse the internet, and view photos. Tablets are completely portable, making them ideal for business people.
+
+
+
+1.8.4 Illustrations_____________________________________________________________________________
+
+
+
+1.8.5 Smart phones
+
+Smart phones are virtual reality for your hand. They have small computers in them that enable you to interact with the real world simply by using a few gestures or movements. Most smart phones have displays, cameras and apps that allow you to make calls, watch videos, surf the web and play games or just check your email. 
+
+Smartphones are increasingly becoming a lifeline of modern life. These phones have become the preferred choice of many people because they allow them to be in touch with their loved ones and stay up-to-date with the world at large.
+
+
+
+1.8.5 Illustrations_____________________________________________________________________________
+
+
+
+1.8.6 All-in-One Computers
+
+All-in-One computers provide a convenient and cost-effective way to create, store and share your digital content. With a seamless combination of hardware and software features, an All-in-One is easy to use and customize for both PCs and Macs.
+
+All-in-one computers are equipped with multiple features that give users the ability to perform multiple tasks at once. These computers usually include a monitor, keyboard, speakers and a mouse. They are often larger than standard laptops and take up more shelf space due to their size. With a smaller footprint and longer battery life, all-in-one PCs are popular choices among professionals who need both flexibility and portability.
+
+
+
+1.8.6 Illustrations_____________________________________________________________________________
+
+
+
+1.9.1 Computer Networking
+
+Computer networking (computer communications or computer networking technology) is any of the fields that deal with data communication using computers as both the senders and receivers of information. Computer networks are most often used to share data, to access remote services, or to connect a mobile device to the internet.
+
+Computer networking involves designing, implementing and managing the computer network components. There are two types of networks: local and wide area networks (WANs). Local networks are those that connect devices in the same building or campus. Wide area networks (WANs) interconnect devices located in two different geographic areas within one organization such as a company or university.
+
+
+
+1.9.1 Illustrations_____________________________________________________________________________
+
+
+
+1.9.2 Components for Networking
+
+Computer networks are the means by which computer can communicate and exchange data with each other over a network. A component is a specific part of hardware and software used to create a network or networked component.  Because computers communicate and exchange data only over a network, they require a high-bandwidth connection. In order to supply this bandwidth, modern computers come equipped with RJ45 ports. These ports are also known as 10Base-T ports because they transmit data using only one pair of wires (per port).
+
+Several different types of components are used in computer networking, including routers, switches, bridges, wireless access points (WAPs), wireless routers and networks, and wireless local area networks (LANs). Wireless LANs use radio waves to deliver data to computers or network devices within range.
+
+1.9.1 Illustrations_____________________________________________________________________________
+
+
+
+Summary & Outcomes
+
+Quiz
+
+
+
+Module 2: Becoming a Digital Native
+
+2.1 The Digital Native 
+
+The Digital Native is a 21st century person who grew up with computers and the internet as a constant companion in their childhood and teenage years. They have strong digital skills and knowledge, which makes them naturally comfortable with technology and other technological advancements.
+
+
+
+2.1 Illustrations_____________________________________________________________________________
+
+
+
+2.2.1 Your Online Identity 
+
+Your online identity is what's known as your "digital reputation." This can be a positive or negative attribute, and it helps you build trust with your family and friends.
+
+Your online identity is everything about you that a viewer can find out, or infer, about you. Your online identity is not just what you look like or who you are – it includes all the information that people try to find when they look up your name, activity on social sites and blog posts, where your photos are taken, or other public information.
+
+Our Online Identity provides you with the tools and resources you need to protect your online presence, protect your identity and privacy, and keep up with the latest news.
+
+
+
+2.2.1 Illustrations_____________________________________________________________________________
+
+
+
+2.2.2 Working with your Online Identity 
+
+Your Online Identity is your public persona. In other words, how you present yourself to the world through a website, social media pages, and other channels of communication. Whether you’re a small business owner or a large corporation, you want to give your target audience accurate and trustworthy information.
+
+Search engines and other digital services use our online identity to provide you with personalized results. That includes carefully analyzing your behavior and preferences across many different products, as well as collecting and using your data to further improve our products’ offerings. We do this because it helps us provide the best possible experience for you in each of our products.
+
+
+
+2.2.2 Illustrations_____________________________________________________________________________
+
+
+
+2.3 Online Research
+
+You can research information about a person, place or thing on the internet, including their social media pages. There are many ways that you can search for information online. Simply type in a keyword and click on the search bar to begin. 
+
+You can find lots of information from our research categories such as news, events, publications and more.
+
+Researching through the internet is an excellent way to gather information about different topics. Information is the source for all things scholarly and technological. While it may take time, some information can be found by researching other resources such as Wikipedia and Urban Dictionary.
+
+Searching the Internet is one of the easiest ways to research information. Web browsers allow you to perform a search by typing keywords into the address bar, which usually opens up a box where you can type in your topic or keyword. Doing so allows you to see what sites contain that search term and click on them to see if they offer more information on that topic.
+
+
+
+2.3 Illustrations_____________________________________________________________________________
+
+
+
+Summary & Outcomes 
+
+Quiz
+
+
+
+Module 3: Getting Information
+
+3.1 The Digital Method for Research 
+
+Finding information online can be difficult and time-consuming. Searching through an enormous amount of content is a daunting task. With competitive search engines like Google and Bing, you may end up with dozens of results that don't match your desired search criteria. With conversational search technology, the right result is highlighted in a few seconds. Conversational search results are organized around what the user has searched for and the relevance of each result to those keywords. Results will appear at the top of the page while you are researching them, instead of being buried in paragraphs and pages away from where they are found.
+
+
+
+3.1 Illustrations_____________________________________________________________________________
+
+
+
+3.2.1 Using Search Engines 
+
+Search engines are the gateway to finding information on the Internet. They index your website and generate tons of quality alternatives for you to choose from.
+
+
+
+3.2.1 Illustrations_____________________________________________________________________________
+
+
+
+3.2.2 Some common search engines 
+
+There are many search engines that people use to find information on the internet. Some of the most common ones include Google, Yahoo, and Bing. Each one has its own unique features and benefits.
+
+A search engine is a program that searches for and identifies items in a database that correspond to keywords or character strings that are specified by the user, and then provides a list of the items found.
+
+The three most popular general purpose search engines are Google, Yahoo!, and Microsoft Bing. Search engines can be classified by the type of data they search through: 
+
+Web search engines index websites and their contents so users can find information on the Internet. 
+
+Image search engines allow users to search for pictures on the Internet. Popular image search engines include Google Images and Yahoo! Image Search. 
+
+Video search engines allow users to search for videos on the Internet. Popular video search engines include YouTube and Vimeo. 
+
+News search engines collect and provide access to news articles from around the web. Google News is a popular news search engine. 
+
+Academic search engines index academic papers, journals, and other scholarly literature. Google Scholar is a popular academic search engine.
+
+
+
+
+
+3.2.2 Illustrations_____________________________________________________________________________
+
+
+
+3.2.3 Getting the right information
+
+When it comes to choosing a search engine, there are many factors to consider. What are you looking for? How much information do you need? What is your budget? Here are some tips to help you choose the right search engine for you:
+
+Define your needs. What do you want to use the search engine for? Are you looking for general information or specific data? Do you need real-time results or can you wait for a few minutes?
+
+Consider the quality of results. Not all search engines are created equal. Some provide better results than others. It is important to find a search engine that gives accurate and relevant results.
+
+Compare prices. If you are on a budget, you may want to find a free search engine. However, keep in mind that free search engines may not provide the same quality of results as paid ones.
+
+Check the user interface. The user interface should be easy to use and understand. You should be able to quickly find what you are looking for without difficulty.
+
+Read reviews. Before choosing a search engine, read online reviews to get an idea of what other users think about it. This can be a helpful way to learn about the pros and cons of different options.
+
+
+
+3.2.3 Illustrations_____________________________________________________________________________
+
+
+
+Summary and Outcomes
+
+Quiz
+
+
+
+Module 4: Creating Content
+
+4.1 Document Production 
+
+Microsoft Word is a word processing software that was first released in 1983. Since then, it has become the most widely used word processing software in the world. Word is a part of Microsoft Office, which also includes Excel, PowerPoint, and Outlook.
+
+While there are many different word processors available, Word has several features that make it the best choice for many users. One of the most important features is compatibility. Word files can be opened and edited in almost any word processor, including those on Macs and smartphones. This makes it easy to share documents with others, even if they don’t have Word installed on their own computer.
+
+Another great feature of Word is its ease of use. It has a very intuitive interface that makes it simple to format documents, insert pictures and videos, create tables and graphs, and do other tasks. Even users who are not familiar with word processing can usually figure out how to use Word without too much trouble.
+
+Perhaps the most significant advantage of Word is its huge range of features. In addition to basic word processing, it offers tools for more advanced tasks such as mail merge (creating form letters), creating indexes and tables of contents, and collaborating on documents with others in real time. It also has a huge range of templates for different types of documents, making it easy to create professional-looking documents without spending a lot of time on formatting.
+
+
+
+4.1.1 Illustrations_____________________________________________________________________________
+
+
+
+4.1.1 How to use Microsoft word
+
+Microsoft Word is a word processing program that allows users to create documents. It offers a variety of features that make it a versatile tool for both personal and professional use. This tutorial will provide an overview of how to use Microsoft Word, including tips on creating and formatting documents, working with images, and using advanced features.
+
+
+
+4.1.1 Illustrations_____________________________________________________________________________
+
+
+
+4.1.2 Creating a New Document
+
+To create a new document in Microsoft Word, click on the File tab and select New from the drop-down menu. This will open the Template Gallery, which provides a variety of templates for different types of documents. To create a blank document, select Blank Document from the list of templates.
+
+
+
+4.1.2 Illustrations_____________________________________________________________________________
+
+
+
+4.1.3 Formatting Documents
+
+Once you have created a new document, you can begin adding content. To format text, select the text you want to format and use the options in the Home tab to change the font, font size, text color, and other attributes. You can also add headings and bulleted or numbered lists.
+
+To format paragraphs, go to the Page Layout tab and use the options in the Paragraph group to change margins, line spacing, and alignment. You can also insert page breaks and section breaks if needed.
+
+
+
+4.1.3 Illustrations_____________________________________________________________________________
+
+
+
+4.1.4 Working with Images
+
+To add an image to your document, click on the Insert tab and select Pictures from the Images group. This will open a dialog box where you can navigate to the location of the image file on your computer. Once you have selected the image, it will be inserted into your document. You can then use the options in the Format tab to crop, resize, or rotate the image as needed.
+
+To add a shape or clip art object, click on Insert > Shapes or Clip Art from the Illustrations group. This will open a search window where you can browse for shapes or clip art objects related to your topic. Once you have found an object you want to insert, click on it to add it to your document.
+
+
+
+4.1.4 Illustrations_____________________________________________________________________________
+
+
+
+4.1.5 Customized Features
+
+Using templates. They are great for creating professional looking documents quickly and easily. To find templates, go to the File menu, click New, and then click Available Templates.
+
+Take advantage of automatic features. Microsoft Word can do a lot of things automatically, such as create a table of contents, insert hyperlinks, and format bibliographies. To learn more about what Word can do automatically, go to the Help menu and search for “automatic features”.
+
+Customize the Quick Access Toolbar. The Quick Access Toolbar is a strip of buttons located above the Ribbon (the toolbar that contains all the commands in Word). You can customize the Quick Access Toolbar to include the commands you use most often. To customize it, go to the File menu, click Options, and then click Customize Quick Access Toolbar.
+
+Learn how to use Styles. Styles are used to format text quickly and consistently throughout your document. To apply a style, select the text you want to format, and then click the style you want to use in the Styles group on the Home tab.
+
+
+
+4.1.5 Illustrations_____________________________________________________________________________
+
+
+
+4.2.1 Getting Started with Presentations 
+
+Microsoft PowerPoint is a presentation software program that allows you to create professional-looking presentations.
+
+With PowerPoint, you can create slides with text, images, and charts. You can also add multimedia elements such as music and videos.
+
+PowerPoint presentations can be saved as PDFs or published online. They can also be shared with others by email or by embedding them on a website. 
+
+PowerPoint is a powerful tool for creating presentations. With PowerPoint, you can create slides with text, images, and videos. You can also add animations and transitions to make your presentation more interesting.
+
+PowerPoint also allows you to create custom templates, which will make your presentation look professional. And if you need to create a presentation on the go, PowerPoint also has a mobile app that you can use.
+
+
+
+4.2.1 Illustrations_____________________________________________________________________________
+
+
+
+4.2.2 Creating a Presentation in Microsoft PowerPoint
+
+Creating a presentation in Microsoft PowerPoint is easy once you know the basics. To get started, open PowerPoint and click on the "New" button. This will open a template gallery where you can choose from a variety of templates. Once you've selected a template, you'll be able to add your own text, images, and videos.
+
+To add text, simply click on the "Add Text" box and start typing. You can format your text by changing the font, size, and color. To add images, click on the "Insert" tab and then select "Picture." This will allow you to insert images from your computer or search for images online. To add videos, click on the "Insert" tab and then select "Video." This will allow you to insert videos from your computer or search for videos online.
+
+Once you're finished adding content, click on the "Save" button to save your presentation.
+
+
+
+4.2.2 Illustrations_____________________________________________________________________________
+
+
+
+4.2.3 Tips for Creating Better Presentations
+
+Now that you understand the basics of Microsoft PowerPoint, let's take a look at some tips for creating better presentations.
+
+Keep it simple - don't try to cram too much information into one slide. Remember that your audience will only be able to process a limited amount of information at a time.
+
+
+
+Use high-quality images - low-quality images will make your presentation look unprofessional. Use high-resolution images that are clear and easy to see.
+
+Use charts and diagrams - they can help your audience visualize complex data.
+
+Be consistent - use the same font and color scheme throughout your presentation. This will create a sense of cohesion and make your presentation look more polished.
+
+Proofread - before you hit the "save" button, make sure you proofread your presentation for any typos or errors. 
+
+
+
+4.2.3 Tips for Creating Better Presentations
+
+Now that you understand the basics of Microsoft PowerPoint, let's take a look at some tips for creating better presentations.
+
+
+
+4.2.3 Illustrations_____________________________________________________________________________
+
+
+
+Summary and Outcomes
+
+Quiz
+
+
+
+Module 5: Understanding Communication in a digital environment
+
+5.1 Adapting to Social Changes
+
+The World we currently live has drastically adopted to the new way we communicate. Thanks to social media, we now consume information in short, digestible bursts rather than in long, comprehensive articles. And as a result, the way we communicate has changed as well. 
+
+Social media has completely changed the way we communicate. It's now easier than ever to share our thoughts and feelings with the world, and we can do it from the comfort of our own homes.
+
+Not only that, but social media has also given us a new way to connect with friends and family. We can now keep in touch with people we would have never had the chance to talk to otherwise.
+
+Overall, social media has had a positive impact on the way we communicate. It's made us more connected and has allowed us to share our thoughts and feelings with the world.
+
+
+
+5.1 Illustrations_____________________________________________________________________________
+
+
+
+5.2 Connecting to People
+
+Social media has completely changed the way we communicate. It's now easier than ever to share our thoughts and feelings with the world, and we can do it from the comfort of our own homes.
+
+Not only that, but social media has also given us a new way to connect with friends and family. We can now keep in touch with people we would have never had the chance to talk to otherwise.
+
+
+
+Overall, social media has had a positive impact on the way we communicate. It's made us more connected and has allowed us to share our thoughts and feelings with the world.
+
+
+
+5.2 Illustrations_____________________________________________________________________________
+
+
+
+5.3 Channels of Communication
+
+We have different social communication channels and each has its own unique benefits and uses
+
+Social networking sites like Facebook, LinkedIn, and Google+ are great for connecting with people and building relationships. You can use these sites to network with potential customers or business partners, or to stay in touch with friends and family.
+
+Media sharing sites like Instagram, YouTube, and Pinterest are perfect for sharing photos, videos, and other content. If you’re a business, you can use these platforms to share behind-the-scenes content, product demos, or other types of informative or entertaining content.
+
+Microblogging sites like Twitter are great for sharing short updates or thoughts on current events. You can use Twitter to connect with customers or followers, or to share news about your business or industry.
+
+Forum sites like Reddit and Quora are perfect for starting or joining conversations on specific topics. You can use these platforms to learn more about your industry, to find answers to questions, or to connect with potential customers or partners.
+
+
+
+5.3 Illustrations_____________________________________________________________________________
+
+
+
+5.4 Tips on Social Media Usage
+
+First, always be aware of the audience you’re trying to reach. Different social media platforms have different demographics, so it’s important to choose the right platform for who you want to reach.
+
+Second, don’t be afraid to mix things up and experiment. You might be surprised by what works and what doesn’t.
+
+Third, make sure you’re regularly publishing fresh content. If people see that you’re constantly posting new and interesting things, they’re more likely to keep coming back.
+
+Fourth, interact with other users! Social media is all about engagement, so make sure you are liking, commenting, and sharing other people’s content.
+
+Fifth, and most importantly, have fun! Don’t forget that social media is a great way to connect with people and share your interests.
+
+
+
+5.4 Illustrations_____________________________________________________________________________
+
+
+
+Summary and Outcomes
+
+Quiz
+
+
+
+Module 6: Collaboration in a digital environment
+
+6.1 Work and Collaboration
+
+When most people think of "collaboration," they think of "working together." But digital and work collaboration is a little different. It is the process of using technology to help us work better with others.
+
+For example, let's say you're working on a project with a team. You can use digital and work collaboration tools to help you keep track of what everyone is doing, share files and ideas, and communicate more easily. This can be especially helpful if you are not working in the same physical space as your team members.
+
+
+
+6.1 Illustrations_____________________________________________________________________________
+
+
+
+6.2 Tools for Collaboration
+
+There are a ton of great tools out there that can help you with digital and work collaboration. Here are some:
+
+Google Drive: A cloud-based storage solution that lets you access your files from anywhere. You can also share files with others and work on them collaboratively in real-time.
+
+Dropbox: Another great cloud-based storage solution with similar features to Google Drive.
+
+Evernote: A note-taking app that lets you capture ideas, images, and to-do lists. You can also share notes with others and work on them collaboratively.
+
+Trello: A project management tool that helps you organize and track your work. You can create boards, lists, and cards to keep everything organized, and you can assign tasks to yourself and others.
+
+Slack: A communication tool that lets you chat with others in real-time. You can also create channels for different projects and share files.
+
+
+
+6.2 Illustrations_____________________________________________________________________________
+
+
+
+6.3 Getting Started with Collaboration
+
+When it comes to digital and work collaboration, the sky is the limit. You and your team can communicate and work on projects with ease, all in one place. Collaboration improves communication and teamwork, easier project management, quicker turnaround times, and reduced costs. To get started with collaboration, you can consider the following:
+
+First, consider using a tool like Google Drive or Dropbox for file sharing. This way, you can easily collaborate on documents, spreadsheets, and presentations with your team.
+
+Another great tool for digital collaboration is slack. This communication platform lets you easily have conversations with your team, share files, and more. Plus, there are tons of integrations available so you can customize it to fit your needs.
+
+Finally, don’t forget about video conferencing tools like Zoom or Google Hangouts. These are great for virtual meetings and can help you stay connected with your team no matter where they are in the world.
+
+
+
+6.3 Illustrations_____________________________________________________________________________
+
+
+
+Summary and Outcomes
+
+Quiz
+
+
+
+Module 7: Securing your Digital Assets 
+
+7.1 Computer Security
+
+Computer Security is the safeguarding of computer systems and information against harm, theft, and unauthorized use. It is the process of preventing and detecting unauthorized use of the computer.
+
+
+
+7.1 Illustrations_____________________________________________________________________________
+
+
+
+7.2 Some Common Risks
+
+Viruses and worms are malicious software programs (malware) that are designed to destroy a company's systems, data, and network. 
+
+A botnet is a network of Internet-connected devices that are infected with and controlled remotely by a common type of malware. Organizations can prevent botnet infections in a variety of ways. 
+
+Drive-by downloads can be used by cybercriminals to inject banking Trojans, steal and collect personal information, and install exploit kits or other malware on endpoints. 
+
+Phishing attacks are a type of information security threat that uses social engineering to trick users into disclosing sensitive information. 
+
+Malicious email attachments, infected software apps, and compromised websites can all be used to spread ransomware.
+
+
+
+7.2 Illustrations_____________________________________________________________________________
+
+
+
+7.3 Connecting to Networks
+
+Connecting to public networks has the potential to provide a security and information leak risk. This might include corporate, home, or public Wi-Fi networks. 
+
+Basic Steps
+
+Verify that your computer is ready to connect to the Internet. 
+
+Locate a network connection within Windows. 
+
+Type the password of the network you are connecting to (either "connect" or "connecting"). 
+
+Select a security method and click OK. 
+
+Select a name for your connection within Windows and click OK to confirm your choice
+
+
+
+7.3 Illustrations_____________________________________________________________________________
+
+
+
+7.3.1 Using WIFI 
+
+When connecting to WiFi, always be aware of who you are connecting with and when forming a connection. For example, connecting from an unknown venue may require you to use your own account details.
+
+
+
+7.3.1 Illustrations_____________________________________________________________________________
+
+
+
+7.3.2 Using Private/ Public Networks 
+
+Connecting to private networks or public networks is sometimes a required, or helpful part of executing a task. Connecting to public networks gives you access to the internet resources that may be useful. For example, you may need to connect to files on an online server in order to download a document. In this case, your computer will be using its built-in Internet browser to download certain files that are located on another computer's hard drive.
+
+
+
+7.3.2 Illustrations_____________________________________________________________________________
+
+
+
+7.3.3 Using VPN 
+
+A VPN securely connects your computer or device to our servers, and you can access the Internet from anywhere around the world. 
+
+
+
+7.3.3 Illustrations_____________________________________________________________________________
+
+
+
+7.4 Safety Tips
+
+Online safety is one of the most important things you can do to protect yourself. 
+
+Here are some basic tips: Make sure your computer has up-to-date antivirus software and run scans regularly — as often as once a week. 
+
+Be selective about what websites you visit and who you are friends with on social media. 
+
+When you e-mail, text message or call someone, always ask yourself “What would happen if the other person answered?” Think about the potential consequence before sending sensitive information — like a password. 
+
+Turn off pop-up ads when using public computers in coffee shops or libraries.
+
+Use security software to prevent malware from entering your computer system through downloads, websites or email attachments. 
+
+Protect your privacy settings so that only approved people can login to your computer.
+
+
+
+7.4 Illustrations_____________________________________________________________________________
+
+
+
+Summary and Outcomes
+
+Quiz
+
+
+
+Stage 2 – Driving the Path
+
+Developing capability to handle systems and processes in a Digital environment
+
+Module 8: Getting Started with Technology
+
+8.1.1 Customization 
+
+In Windows 10, you can customize the appearance of your desktop on a per-app basis. The Settings app lets you control how Windows handles start up animations, displays information like battery life with different background colors, and even change the look of things like taskbar buttons and Start menu tiles.
+
+
+
+8.1.1 Illustrations_____________________________________________________________________________
+
+
+
+8.1.2 Configuring Browsers
+
+Browsers are configured using their own interface, available from their own panel. A separate browser configuration panel is provided per browser. This panel allows to set all relevant options for the browser, such as tab size, scrolling and freezing the browser navigation bar.
+
+You can configure your browser to always use the latest version of a website’s code, but this practice is not recommended. Many websites update their scripts regularly, so it’s better to let your browser pick the newest version automatically. For example, if you find that Google Chrome is a little slow in loading pages or that certain sites aren’t loading properly, you might consider using an alternative browser (like Opera) or clearing the cache on your computer.
+
+You can use the browser control panel to control a number of features, including the website homepage and your bookmarks. You can click tools in the top right corner to access more options.
+
+
+
+8.1.2 Illustrations_____________________________________________________________________________
+
+
+
+8.1.3 User Settings
+
+Settings in Windows 10 are the building blocks of a user-centered operating system. Microsoft has invested a lot of time and effort in making sure that the Settings app is easy to discover, understand and use. The Settings app provides access to a variety of settings itself, as well as features that bring together related functionality such as Control Panel Network & Internet Windows Update.
+
+Setting in Windows 10 is designed to allow you to configure your device and personalize it to meet your preferences. The Settings app manages your Windows account, adjusts time and date change for your PC, works with Kids & Family options, and lets you manage Edge privacy settings as well as Change display language.
+
+
+
+8.1.3 Illustrations_____________________________________________________________________________
+
+
+
+8.1.4 Computer devices and connections
+
+Computer devices come with a variety of connection options. You can connect your computer to other devices through a variety of ports and interfaces, or use wireless networking or Bluetooth to connect your computer to other devices. Each connection has different uses and benefits for the user.
+
+
+
+8.1.4 Illustrations_____________________________________________________________________________
+
+
+
+8.1.4.1 The Processor
+
+The processor is where computing tasks are performed. The processor performs all of the arithmetic operations and memory accesses. The processor also has to handle interrupts, which are a signal from the system to inform it that something has occurred that requires attention immediately.
+
+
+
+8.1.4.1 Illustrations_____________________________________________________________________________
+
+
+
+8.1.4.2 Computer Ports
+
+Computer ports allow for the connection of a computer to an electrical outlet. Most computers require two standard computer ports, usually labeled USB 2.0 or USB 3.0 and a power port (either internal or external). 
+
+The computer ports are located at the back/side of the computer, with a specific number of ports (depends on the manufacturer/generation) and a power port. There are USB 2.0 ports USB 3.0 ports, an HDMI port and an Ethernet port.
+
+
+
+8.1.4.2 Illustrations_____________________________________________________________________________
+
+
+
+Summary and Outcomes
+
+Quiz
+
+
+
+Module 9: Becoming a Digital Native 
+
+9.1.1 Defining Identities
+
+Social media and online communities are shifting our identities in a way that requires every technology user to develop an understanding of the personal, professional, and civic aspects of their online presence.
+
+The personal and professional online identities are about who you are, what you believe in, and how you present yourself to the world. While there is no standard for each identity, one’s reputation can be shaped by the way they communicate on social media. The professional online identity is characterized by integrity, honesty, being open and authentic.
+
+The personal brand is the public self that you present online to the world, while your professional brand is the set of skills and attributes associated with your job. In a digital age, your personal and professional identities are inseparable.
+
+A personal and professional online identity are two distinct yet complementary aspects of your online presence. Your personal identity is who you're trying to be and what you hope to achieve in life. You may have established a physical identity, like your name or profession, but how do you represent that on the Internet? This can be done through your public persona or even through your business brand.
+
+
+
+9.1.1 Illustrations_____________________________________________________________________________
+
+
+
+9.1.2 Your Online Accounts
+
+Personal and professional online identities can be confusing. You may have more than one online identity, or not even know you have one. The solution is to create separate, exclusive profiles for each. By using unique usernames that describe your work and personal life, you help preserve your true self in cyberspace and keep it from being stolen by thieves and scammers.
+
+
+
+9.1.2 Illustrations_____________________________________________________________________________
+
+
+
+9.1.3 Switching between Accounts
+
+What you are called at work may be different with what family and friends call you. You also correspond with colleagues and associates with an official office mail. While, out of office, you communicate with your personal email (public). You may want to stay in touch with friends and family while at work, and you there are simpler ways to do that.
+
+You can check your personal email account, and still stay connected to work accounts on the same computer. No logging out of your company email inbox or navigating away from the current pages in your browser. You can find a way that works with nearly any app: sync files and notes from multiple accounts, juggle a handful of Twitter or Instagram accounts in the same browser, or swap between work and personal emails with just two clicks. Find out some points below:
+
+"Add Account" option for Instagram and some Other Social Media Platforms.  Now there's no more logging out to switch accounts. Just tap on your username, then tap again on the username for the account you wish to post to. 
+
+Google: you can switch between multiple accounts whether you're perusing your email on the web or in the Gmail mobile app.  To do so, you'll need to add a second account, but once that's done, switching between the two—whether on Android, iOS or the web—is just a few taps away. 
+
+You can then switch accounts in almost any other Google app, to edit personal and work Google Docs or upload videos to any of your YouTube profiles
+
+When setting up multiple accounts, use different avatars in order to quickly see the account you're logged in to. 
+
+Gmail allows you to receive email from more than one email accounts—including Outlook and accounts from other email services—inside one Gmail account by forwarding messages and using aliases to send messages.
+
+Microsoft: If your email runs through Office 365 or Outlook, however, there's no way to natively switch between two accounts. You'll either need to rely on signing in and out, using a third-party app or switching between browsers or devices.
+
+
+
+9.1.3 Illustrations_____________________________________________________________________________
+
+
+
+9.2 Healthy Online Living
+
+When we live online, it is expected of us to be guided by what we do, and how we do it. This starts from how we share stories, photos, videos, or even our opinion in online discussions. We share contents online, we are expected to be share verified contents, and stay away from questionable online behaviors. Our virtual world today has a significant effect to what we do every day in our daily lives, so it is our duty to preserve it.
+
+9.2 Illustrations_____________________________________________________________________________
+
+9.3 Evolving with Technology
+
+Technology keeps on changing, and most end-users may not be really enthused with the advancement. However, it is important to keep a watchful eye of the new software updates, which can be a solution to a problem, and will improve User Experience. Therefore, find out on the Latest Updates, New releases that will come with features you may just be looking for.  
+
+
+
+9.3 Illustrations_____________________________________________________________________________
+
+
+
+Summary and Outcomes
+
+Quiz
+
+
+
+Module 10: Getting Information
+
+10.1.1 Keyword is Key
+
+Keyword research is the process of discovering words and phrases that is frequently used by Users in search engines, like Google, Bing and YouTube. 
+
+Keyword research impacts different tasks that you want to perform, including finding content topics, email outreach, and content research, and content promotion. Keywords are like a compass for your research, they tell you where to go and whether or not you are making progress.
+
+
+
+10.1.1 Illustrations_____________________________________________________________________________
+
+10.1.2 Keyword Ideas
+
+While, you might be curious in knowing, the exact topics most people research, which might be related to what you want to find out in the first place. The topic might not be keywords (yet), and there a number of online resources that can guide you.
+
+
+
+10.1.1 Illustrations_____________________________________________________________________________
+
+
+
+10.1.2.1 Using Wikipedia
+
+Wikipedia is a keyword research that will get you tons of information. Information here are all organized into neat sub categories, which makes it way easier to fetch information.
+
+First, head over to Wikipedia and type in a broad keyword
+
+That will take you to the Wikipedia entry for that broad topic. 
+
+Then, look for the “contents” section of the page. 
+
+This section lists out the subtopics covered on that page. 
+
+And some of the subtopics listed here are awesome keywords that would be tough to find any other way. 
+
+You can also click on some of the internal links on the page to check out closely related entries. For example, on the Salad entry we have a link to “Salad Preparation”: When you click on that link, you’ll notice that the table of contents for the Salad Preparation page has even more keywords that you can add to your list. 
+
+
+
+10.1.2.1 Illustrations_____________________________________________________________________________
+
+
+
+10.1.2.2 Related Searches (Google)
+
+“Searches related to” section appears at the bottom of Google’s search results. For example, let’s say one of your topics was “digital literacy”. Well, you would want to search for that keyword in Google. And scroll to the bottom of the page. You would find a list of 8 keywords that are closely related to your search term. Just like with Google Suggest, these are keyword ideas that come straight from Google. So you do not need to guess whether or not they are popular. Google is literally telling you: “So many people search for these keywords.”
+
+
+
+10.1.2.2 Illustrations_____________________________________________________________________________
+
+
+
+10.2.1 Online Data 
+
+The internet has tons of data for all your needs. Data is one of the vital assets that can be used to guide a key decision matrix, be it personal, or work related.  The more information you, the better you can understand and affect your decision making. Today’s online landscape provides a variety of data gathering tools and techniques that are powerful, innovative, cost-effective or free. 
+
+Data can help you estimate the effectiveness of every decision. Thus, you can maximize resources, optimize workflows, and make your businesses more profitable.
+
+
+
+10.2.1 Illustrations_____________________________________________________________________________
+
+
+
+10.2.2 Tools for Online Data Collection
+
+Now, let’s look at some of the most effective online ways to gather the data. Businesses of all sizes conduct online survey research to obtain and act on customer feedback. An online survey is a questionnaire that people can fill in over the Internet. Respondents can receive online surveys via different media channels such as email, social media, embedded over a website, etc. The respondent’s answers are stored in statistical software tools for further data analytics. 
+
+ 
+
+Today online surveys are one of the most popular and effective ways to collect data for marketing and business research. The key reason for their popularity is that online surveys are low cost, convenient, time-saving, easy to use, and ready to be analyzed at any time. 
+
+Moreover, with today’s powerful online survey tools, you can view the results in real-time, create different types of graphs for reporting, and share your results with anyone. 
+
+Some of the greatest free and paid online survey tools are 
+
+Google Forms, 
+
+Survey Monkey, 
+
+Typeform, 
+
+Survicate, and 
+
+Survey Planet.
+
+
+
+10.2.2 Illustrations_____________________________________________________________________________
+
+
+
+10.2.3 Advanced Data Collection
+
+10.2.3.1 Using Social Media
+
+Social Media is one of the biggest sources of data available today. The key to maximizing the power of social media is collecting data on what your audience says about your brand, your competitors, and the market in general. Despite the fact that over 3 billion people uses social media today, there are tools  
+
+That is where social media monitoring/listening tools come to play. They show you what people think of your company and help you manage online conversations relevant to your brand. The business benefits of being able to monitor and listen in on customers’ advice, thoughts, complaints, and recommendations are infinite. Some of the best and most popular free and paid social media monitoring tools are 
+
+TweetDeck, 
+
+Followerwonk, 
+
+SumAll, 
+
+Hootsuite, 
+
+Awario, 
+
+Agorapulse, 
+
+Brandwatch.
+
+
+
+10.2.3.1 Illustrations_____________________________________________________________________________
+
+
+
+
+
+
+
+10.2.3.2 Using Website Analytics
+
+There is a huge amount of valuable data accessible to you through website analytics platform. Examples of data that you can gather from your website include: visitor’s location, patterns of visitor behavior, keywords used by visitors to find your site and business, visitor’s activities in the site, most popular content, etc. The most popular platform for gathering insights is Google Analytics. It is a free and quite powerful tool that provides tones of data. Other good tools are:  
+
+Clicky, 
+
+Leadfeeder, 
+
+Mint, 
+
+KISSmetrics
+
+Also, there are web crawlers that can help you extract data from any website, including yours. When it comes to free online data collection methods, open data can be a good tool. Open data are large datasets that are free and available to anyone with an internet connection. Governments, independent organizations, some businesses and agencies are those who build open data for free and easy access. Open data can be many types – from public data collected and provided by government agencies to economic trend roundups from financial organizations and banks. Open data can give a big boost to your business.
+
+
+
+10.2.3.2 Illustrations_____________________________________________________________________________
+
+
+
+Summary and Outcomes
+
+Quiz
+
+
+
+Module 11: Content Creation
+
+11.1.1 Applying Basic Word Features
+
+The Quick Access Toolbar: Located just above the Ribbon, the Quick Access Toolbar lets you access common commands no matter which tab is selected. 
+
+By default, it shows the Save, Undo, and Redo commands, but you can add other commands depending on your needs. 
+
+The Ruler: The Ruler is located at the top and to the left of your document. It makes it easier to adjust your document with precision. If you want, you can hide the Ruler to create more screen space. 
+
+Backstage view: Backstage view gives you various options for saving, opening a file, printing, and sharing your document. To access Backstage view, click the File tab on the Ribbon. Click the buttons in the interactive below to learn more about using Backstage view. 
+
+Document views and zooming: Word has a variety of viewing options that change how your document is displayed. You can choose to view your document in Read Mode, Print Layout, or Web Layout. These views can be useful for various tasks, especially if you're planning to print the document. You can also zoom in and out to make your document easier to read. 
+
+Switching document views: Switching between different document views is easy. Just locate and select the desired document view command in the bottom-right corner of the Word window. Zooming in and out to zoom in or out, click and drag the zoom control slider in the bottom-right corner of the Word window. You can also select the + or - commands to zoom in or out by smaller increments. The number next to the slider displays the current zoom percentage, also called the zoom level."
+
+
+
+11.1.1 Illustrations_____________________________________________________________________________
+
+
+
+11.1.2 Using Header and Footer
+
+"Go to Insert > Header or Footer. Choose the header style you want to use. 
+
+Tip: Some built-in header and footer designs include page numbers. 
+
+Add or change text for the header or footer. 
+
+To edit a header or footer that's been already created, double-click on it. 
+
+To eliminate a header--like deleting it on the title page--select it and then check the Different First Page box. Select Close Header and Footer or press Esc to exit. 
+
+To delete, select Insert > Header (or Footer) > Remove Header (or Remove Footer). 
+
+To Add a standard or customized header or footer Go to Insert > Header or Footer. Choose from a list of standard headers or footers, go to the list of Header or Footer options, and select the header or footer that you want. 
+
+Or, create your own header or footer by selecting Edit Header or Edit Footer. When you're done, select Close Header and Footer or press Esc. 
+
+Additionally Note that when you customize your header or footer, you can add images, page numbers, date, time, sheet name, file name and path, and more. 
+
+To delete, select Insert > Header (or Footer) > Remove Header (or Remove Footer).
+
+
+
+11.1.2 Illustrations_____________________________________________________________________________
+
+
+
+11.1.3 Applying and Customizing Styles
+
+Imagine you're working with a really long document in Microsoft Word, like an academic paper or a big report. 
+
+Depending on the project, it might be dozens or even hundreds of pages long! When a document is this large, it can be difficult to remember which page has what information. Fortunately, Word allows you to insert a table of contents, making it easy to organize and navigate your document. A table of contents is just like the list of chapters at the beginning of a book. 
+
+It lists each section in the document and the page number where that section begins. A really basic table of contents might look like this: You could create a table of contents manually—typing the section names and page numbers—but it would take a lot of work. And if you ever decide to rearrange your sections or add more information, you'll have to update everything all over again. 
+
+However, with the right formatting, Word can create and update a table of contents automatically. 
+
+Step 1: Apply heading styles. Styles also serve another important purpose: adding a hidden layer of organization and structure to your document. If you apply a heading style, you are telling Word that you have started a new part of your document. When you insert the table of contents, it will create a section for each heading. 
+
+In the table of contents above, each chapter uses a heading style, so there are four sections. To apply a heading style, select the text you want to format, then choose the desired heading in the Styles group on the Home tab. 
+
+Step 2: Insert the table of contents now for the easy part! Once you've applied heading styles, you can insert your table of contents in just a few clicks. Navigate to the References tab on the Ribbon, then click the Table of Contents command. Select a built-in table from the menu that appears, and the table of contents will appear in your document. As you can see in the image below, the table of contents uses the heading styles in your document to determine where each section begins. 
+
+Sections that begin with a Heading 2 or Heading 3 style will be nested within a Heading 1 style, much like a multilevel list. A table of contents also creates links for each section, allowing you to navigate to different parts of your document.
+
+Just hold the Ctrl key on your keyboard and click to go to any section. 
+
+Step 3: Update as needed if you edit or add to your document, it's easy to update the table of contents. Just select the table of contents, click Update Table, and choose Update Entire Table in the dialog box that appears. The table of contents will then update to reflect any changes. No matter how large your document may be, you can see there's nothing complicated about creating a table of contents.
+
+
+
+11.1.3 Illustrations_____________________________________________________________________________
+
+
+
+11.2 Customizing Presentations
+
+11.2.1 Animating Text and Objects
+
+You can animate text and objects such as clip art, shapes, and pictures. Animation—or movement—on the slide can be used to draw the audience's attention to specific content or to make the slide easier to read.
+
+There are several animation effects you can choose from, some are as follows:
+
+Effect options: Some effects will have options you can change. For example, with the Fly In effect you can control which direction the object comes from. These options can be accessed from the Effect Options command in the Animation group. 
+
+To remove an animation: Animations are best used in moderation. Adding too many animations can make your presentation look a little silly and can even be distracting to your audience. Consider using mostly subtle animations, or not using animations at all. 
+
+Working with animations: To add multiple animations to an object: If you select a new animation from the menu in the Animation group, it will replace the object's current animation.
+
+However, you would sometimes want to place more than one animation on an object, like an Entrance and an Exit effect. To do this, you'll need to use the Add Animation command, which will allow you to keep your current animations while adding new ones. 
+
+To reorder the animations: To copy animations with the Animation Painter: In some cases, you may want to apply the same effects to more than one object. You can do this by copying the effects from one object to another using the Animation Painter. 
+
+To preview animations: Any of the animation effects you have applied will show up when you play the slide show. However, you can also quickly preview the animations for the current slide without viewing the slide show. 
+
+The Animation Panel: The Animation Pane allows you to view and manage all of the effects that are on the current slide. You can modify and reorder effects directly from the Animation Panel, which is especially useful when you have several effects. 
+
+Opening Animation Panel: If you have several animated objects, it may help to rename the objects before reordering them in the Animation Panel. You can rename them in the Selection Panel. 
+
+To open the Selection Panel, click an object, then from the Format tab click Selection Panel. Double-click the name of an object to rename it. 
+
+To reorder effects from the Animation Panel: 
+
+To preview effects from the Animation Panel: If the timeline is not visible, click the drop-down arrow for an effect, then select Show Advanced Timeline. 
+
+To change an effect's start option: By default, an effect starts playing when you click the mouse during a slide show. If you have multiple effects, you will need to click multiple times to start each effect individually. However, by changing the start option for each effect, you can have effects that automatically play at the same time or one after the other. 
+
+When you preview the animations, all of the effects will play through automatically. To test effects that are set to start on Click, you will need to play the slide show.
+
+
+
+11.2.1 Illustrations_____________________________________________________________________________
+
+
+
+11.3 Basic Tools in Excel
+
+
+
+Microsoft Excel is one of the most efficient and widely used software around the world. It is highly used all over the world to organize data in a meaningful appearance. Its implementation in the present world can’t be described in short words. 
+
+11.3.1 Introductory Terms of Excel 
+
+Workbook: To help you organize your data, a workbook is a file that includes one or more worksheets. From a blank workbook or a template, you can make a new one. In order to create a new workbook, you can go to the Blank Workbook option from the File tab. Alternatively, you can just press CTRL + N. 
+
+Worksheet: A Worksheet which is also called a spreadsheet is a combination of cells. You can enter and calculate data in those cells. Columns and rows have been used to arrange the cells. Worksheets are arranged in a workbook. 
+
+Row: The combination of all the cells that run horizontally in an Excel sheet is called a Row. The numbering that we can see on the left side of a worksheet denotes the row numbers. 
+
+Column: The cells that run vertically in an Excel sheet are called Column. The alphabetic numbering that can be seen at the top of the sheet denotes the column numbers 
+
+Cell: The boxes that are seen in a worksheet with the horizontal and vertical gridlines are called Cells. The cell name is a combination of Row and Column numbers. 
+
+Ribbon: Ribbon is the area where tabs and icons are arranged in rows in the upper portion of the worksheet. It is like a toolbar but a complex one. You can give any command from the ribbon to perform your desired task. 
+
+Quick Access Toolbar: In Excel, there is a command line that can be found above or below the primary ribbon tabs. It is called the Quick Access Toolbar. It provides constant visibility and easy access to a set of preferred commands. 
+
+Function: Functions in Excel are the preordained formulas to perform the calculations. In order to perform a function properly, you need to input the required particulars according to the specific order. For example, The formula =AVERAGE(D3:D12) returns the average value of the cells from D3 to D12. After inputting the equal sign and writing AVERAGE as a function, you need to define the cells. If you do not follow the order, it would not give the desired result. 
+
+Formula: A Formula in Excel is actually nothing more than an equation. We can use formulas in order to perform calculations, manipulate cells’ data, run conditions, and so on. Here, we have used =SUM(D3:D12) formula to calculate the summation of cells D3:D12. 
+
+Formula: Bar Formula Bar is actually a box situated on top of the worksheet. It shows the formula on the current cell and gives you permission to view or edit the formula. 
+
+Array: An Array is basically a group of things. The elements may take the form of text or numbers and may be placed in a single row, a single column, or numerous rows and columns. 
+
+Name Box: There is a small box beside the formula bar. It is called the Name Box. The Name Box displays the name of the chosen cell if a name has been defined for it. Additionally, you can define a name for a chosen cell using the Name Box. 
+
+
+
+11.3.1 Illustrations_____________________________________________________________________________
+
+
+
+11.3.2 Editing Terminologies 
+
+
+
+We often edit our dataset to make it look more appealing. There are so many features regarding editing. Some are explained briefly below: 
+
+Font: Font basically describes a collection of text or typographic characters that can be printed or displayed in a certain size and style. Excel uses Calibri font style and 11 in size as default. From the Home tab, you can select your preferred font style according to the size you needed. 
+
+Cell Formatting: Cell Formatting means changing the formation of the cells without even changing the actual cell value. We can modify the number, alignment, font style, border style, fill options, and protection with the aid of cell formatting. Right-clicking the mouse will bring up this option for us. 
+
+Conditional Formatting: Conditional Formatting is used to highlight definite values or make specific cells clearly observable. According to the given condition, The appearance of the cells gets changed. 
+
+Freeze Panels: You can freeze your columns and/or rows using the Excel Freeze Panes option. It does not allow the frozen cells to move when you scroll down or across to see the rest of your page. In the following image, I have used the Freeze Panes option to freeze the top 4 rows and column A. If I scroll down or right side, these will be intact at their places. 
+
+Merged Cells: In Excel, Merged cells are cells that have been joined together into a single cell. This can be useful for creating a single cell that spans multiple columns or rows. To merge cells in Excel, select the cells first that you want to merge. After that, go to the Merge & Center option of the ribbon from the Home tab. 
+
+Alignment in Excel: Alignment refers to how cell contents are positioned within a cell. You can align cell contents in horizontal or vertical ways. In a horizontal way, you can even align them in the left, center, and right positions. Also, you can align them vertically in top, middle, and bottom positions. 
+
+
+
+11.3.2 Illustrations_____________________________________________________________________________
+
+
+
+11.3.3 Terminologies for Automation 
+
+There are some very efficient features that reduce workloads. It works automatically according to the given condition. 
+
+AutoFill: Auto Fill is a feature in Excel that allows you to quickly fill in a series of cells with a pattern or data. For example, I have input the value 1 and 2 in the first two cells and drag the cursor down selecting those two cells. The selected cells got autofilled. 
+
+AutoSum: Auto Sum is a feature in Excel that allows you to quickly sum up a range of cells. To use AutoSum, select the cell below the range of cells you want to sum. Then, click the AutoSum button on the Home tab. Excel will automatically sum the range of cells and insert the sum in the cell below. 
+
+Flash Fill: Flash Fill is a feature in Microsoft Excel that allows you to quickly fill in a column of data based on another column of data. For example, I have used the Flash Fill feature to have the number serially. 
+
+
+
+11.3.3 Illustrations_____________________________________________________________________________
+
+
+
+11.3.4 Pivot Table Terminologies 
+
+Column Labels: It controls the way that data is displayed in the columns of the pivot table. By default, each column label will show the value of the data in that column. You will be able to change the way that the data is displayed by changing the column label settings. 
+
+Group: A Group is a collection of items in a pivot table that have the same value in a given field. 
+
+Item: Item is a label that describes the data in a cell. Items can be numeric values, text, or dates.
+
+
+
+11.3.4 Illustrations_____________________________________________________________________________
+
+
+
+11.4 Reusing Existing Work
+
+11.5 Copyright, Plagiarism, and Intellectual Property
+
+Summary and Outcomes
+
+Quiz
+
+
+
+Module 12: Communication
+
+12.1.1 Tools for Communication
