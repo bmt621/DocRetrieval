@@ -1,0 +1,9 @@
+fastapi
+'uvicorn[standard]'
+doc2text
+PyPDF2
+langchain
+openai
+unstructured
+chromadb
+python-magic-bin
